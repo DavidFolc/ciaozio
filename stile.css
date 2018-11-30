@@ -1,0 +1,19 @@
+#main {
+    width: 500px;
+    margin:auto
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+img {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    }
+body {
+   
+    border: 5px dotted blue ;
+
+}
